@@ -6,8 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-           
+            Console.WriteLine("Hello World! edited this line by master");
+            Console.WriteLine("Added new line by master");
         }
     }
 }
